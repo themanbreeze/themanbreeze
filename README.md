@@ -8,7 +8,7 @@ This space is open for collaboration and idea-sharing with fellow fans and modde
 
 ## Current Project
 
-**[Hostile Takeover](https://github.com/wrestlehacks/hostiletakeover)**  
+**[Hostile Takeover](https://github.com/wrestlehacks64/hostiletakeover)**  
 > Dev logs, experimental texture work, and gameplay notes.
 
 ---
