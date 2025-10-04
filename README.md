@@ -1,34 +1,47 @@
-# Welcome to WrestleHacks
+# Hi, I'm The Man Breeze 👋
 
-I create custom ROM hacks for classic N64 wrestling games, blending retro nostalgia with fresh ideas. I’m working through several passion projects, focusing on one at a time before moving on to the next.
+I’m a ROM hacker and retro game enthusiast dedicated to celebrating and preserving the legacy of AKI wrestling games.  
+My work focuses on creative exploration, expanding rosters, experimenting with mechanics, and reimagining classic N64 wrestling experiences.  
 
-This space is open for collaboration and idea-sharing with fellow fans and modders who share the same passion for the community.
+I aim for my projects to **feel as if they were created by the original AKI development team**, honoring their style, mechanical depth, and design coherence.  
 
----
-
-## Current Project
-
-**[Hostile Takeover](https://github.com/wrestlehacks64/hostiletakeover)**  
-> Dev logs, experimental texture work, and gameplay notes.
+Development is hobby-first and curiosity-driven: no schedules, no external pressure — just a deliberate practice of play, preservation, and imaginative reconfiguration.
 
 ---
 
-##  What This GitHub Is For
-
-This profile serves as a development hub for:  
-- Dev logs and notes  
-- Tools and references  
-- Documentation of ROM hacking progress  
-
-I keep things simple and text-based — more of an “engineering notebook” than a social feed.
+## 🌐 Website
+[themanbreeze.com](https://themanbreeze.com) — main hub for my projects, ROM hacks, and archives.
 
 ---
 
-## Find Me Elsewhere
-
-- [YouTube](https://www.youtube.com/@wrestlehacks64)  
-- [Ko-Fi (optional support)](https://ko-fi.com/wrestlehacks)  
+## 📍 Location
+Oslo, Norway
 
 ---
 
-Thanks for checking out the work. Let’s wrestle with ideas together!
+## 🚀 Featured Projects
+- **[WWF WrestleFest N64 ROM Hack](https://github.com/YourUsername/WWF-WrestleFest-N64)**  
+  A Golden Era, WrestleFest-style ROM hack built on the AKI engine for N64. Expands rosters, arenas, and gameplay while preserving the classic feel.  
+
+*(Add more projects here as needed.)*
+
+---
+
+## 💬 Connect
+- ▶️ YouTube: [Youtube Channel](https://www.youtube.com/@themanbreeze)  
+- 👾 Reddit: [u/YourRedditUsername](https://www.reddit.com/user/YourRedditUsername)  
+- ☕ Ko-Fi: [Support My Work](https://ko-fi.com/themanbreeze)
+
+---
+
+## 📝 Work Approach
+- Hobby-first: no deadlines, just exploration and creativity  
+- Preservation: honoring the AKI wrestling legacy  
+- Expansion: experimenting with mechanics, rosters, and arenas  
+- Community: sharing knowledge, patches, and inspiration for fans and modders  
+
+---
+
+## ⚠️ Disclaimer
+All projects are **fan-made**, inspired by the original AKI wrestling games.  
+Not affiliated with or endorsed by the original developers.
