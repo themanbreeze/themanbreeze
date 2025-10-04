@@ -20,11 +20,9 @@ Oslo, Norway
 ---
 
 ## 🚀 Featured Projects
-- **WWF WrestleFest**
-   A Golden Era-inspired ROM hack of WWF WrestleMania 2000 for the N64, preserving the original AKI engine mechanics while expanding the roster and maintaining the authentic gameplay experience characteristic of the period.
+- **WWF WrestleFest** : A Golden Era-inspired ROM hack of WWF WrestleMania 2000 for the N64, preserving the original AKI engine mechanics while expanding the roster and maintaining the authentic gameplay experience characteristic of the period.
 
-- **WCW / nWo Souled Out**
-  A historically-inspired ROM hack of WCW / nWo Souled Out for the N64, exploring the rise and hostile takeover of the nWo between 1996 and 1998. The project preserves the original AKI engine mechanics while expanding the roster to reflect the era and maintain the authentic gameplay experience of the period.
+- **WCW / nWo Souled Out** : A historically-inspired ROM hack of WCW / nWo Souled Out for the N64, exploring the rise and hostile takeover of the nWo between 1996 and 1998. The project preserves the original AKI engine mechanics while expanding the roster to reflect the era and maintain the authentic gameplay experience of the period.
 
 
 
