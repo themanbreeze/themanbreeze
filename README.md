@@ -1,4 +1,4 @@
-# Hi, I'm The Man Breeze 👋
+# The Man Breeze – Celebrating AKI Wrestling Games
 
 I’m a ROM hacker and retro game enthusiast dedicated to celebrating and preserving the legacy of AKI wrestling games.  
 My work focuses on creative exploration, expanding rosters, experimenting with mechanics, and reimagining classic N64 wrestling experiences.  
