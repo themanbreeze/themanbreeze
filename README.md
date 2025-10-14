@@ -19,18 +19,15 @@ Oslo, Norway
 
 ---
 
-## 🚀 Featured Projects
-- **WWF WrestleFest** : A Golden Era-inspired ROM hack of WWF WrestleMania 2000 for the N64, preserving the original AKI engine mechanics while expanding the roster and maintaining the authentic gameplay experience characteristic of the period.
-
-- **WCW / nWo Souled Out** : A historically-inspired ROM hack of WCW / nWo Souled Out for the N64, exploring the rise and hostile takeover of the nWo between 1996 and 1998. The project preserves the original AKI engine mechanics while expanding the roster to reflect the era and maintain the authentic gameplay experience of the period.
-
+## 🚀 In Development
+- **World Championship Wreslting** : A ROM hack of WCW/nWo Revenge that reimagines the NES classic, _World Championship Wrestling (released 1990)_, focusing on early 1990s WCW (1991–1993) with singles, tag teams, NWA legends, and select NJPW and AJPW guests. It features custom character designs and accurate movesets, preserving the original game’s spirit while expanding gameplay and roster depth.
 
 
 ---
 
 ## 💬 Connect
 - ▶️ YouTube: [Youtube Channel](https://www.youtube.com/@themanbreeze)  
-- 👾 Reddit: [u/YourRedditUsername](https://www.reddit.com/user/YourRedditUsername)  
+- 👾 Reddit: [u/themanbreeze](https://www.reddit.com/user/themanbreeze)  
 - ☕ Ko-Fi: [Support My Work](https://ko-fi.com/themanbreeze)
 
 ---
